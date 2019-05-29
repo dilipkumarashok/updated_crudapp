@@ -1,0 +1,4 @@
+werkzeug - INFO -  * Running on http://0.0.0.0:5005/ (Press CTRL+C to quit)
+werkzeug - INFO - 49.207.53.214 - - [27/May/2019 14:09:19] "GET / HTTP/1.1" 404 -
+werkzeug - INFO - 49.207.53.214 - - [27/May/2019 14:09:19] "GET /favicon.ico HTTP/1.1" 404 -
+werkzeug - INFO - 49.207.53.214 - - [27/May/2019 14:09:24] "GET / HTTP/1.1" 404 -
